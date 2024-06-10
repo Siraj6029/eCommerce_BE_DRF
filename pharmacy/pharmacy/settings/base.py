@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     # External Packages
     "rest_framework",
     # Internal Apps
-    "pharmacy.company",
+    "pharmacy.product",
 ]
 
 MIDDLEWARE = [
